@@ -1,0 +1,2 @@
+# mygolang
+My golang coding
